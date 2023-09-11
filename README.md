@@ -1,2 +1,2 @@
 # Machine-Learning-tutorial-tensorflow
-我会在这个仓库分享主流的机器学习算法。非深度学习部分会有纯代码版本和sklearn版本。深度学习使用则tensorflow版本
+我会在这个仓库分享主流的机器学习算法。非深度学习部分会有纯代码版本和sklearn版本。深度学习则使用tensorflow
